@@ -1,9 +1,3 @@
-> [!IMPORTANT]
-> Автор не несет ответственности за неправомерное использование данного материала.  
-> Вы пользуетесь этой инструкцией на свой страх и риск!  
-> Автор не несёт ответственности за порчу оборудования, программного обеспечения и любых подобных проблем.  
-> Подразумевается, что вы понимаете, что вы делаете.
-
 <br>
 
 ![1](https://github.com/user-attachments/assets/2b759e30-141a-4921-91a8-d1230323a744)
@@ -13,12 +7,13 @@
 ***
 
 <h1 align="center">
-  <a href="https://github.com/Internet-Helper/AdGuard-Home/wiki">Нажмите сюда для установки и настройки AdGuard Home</a>
+  <a href="https://github.com/Internet-Helper/AdGuard-Home/wiki">Нажмите сюда для перехода в инструкцию AdGuard Home</a>
 </h1>
 
 ***
 
-[AdGuard Home](https://adguard.com/ru/adguard-home/overview.html) — это удобный и мощный инструмент для управления интернетом в вашей сети на уровне DNS/DHCP.
+Что такое [AdGuard Home](https://adguard.com/ru/adguard-home/overview.html)?  
+Это удобный и мощный инструмент для управления интернетом в вашей сети на уровне DNS/DHCP.
 
 Для всей сети и каждого устройства отдельно можно:
 - Назначить любое количество DNS-серверов
@@ -33,7 +28,11 @@
 ***
 
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/1f74035d-8be0-4cac-9670-54dbad1ccd56" width="20" alt="Telegram">
+  <a href="https://t.me/Inter_net_Helper/8872">Чат в Telegram</a> для вопросов или обсуждения 
+</div>
 
-Нравится проект? Можете поддержать аренду сервера GeoHide DNS через [CloudTips](https://pay.cloudtips.ru/p/ddeac224) или [Юмани](https://yoomoney.ru/to/41001945296522), либо скинуть на чашечку кофе ☕
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b74aab60-2d5e-40de-a688-0eb3a58cbe11" width="20" alt="Money"> Поблагодарить можно через
+  <a href="https://pay.cloudtips.ru/p/8ec8a87c">CloudTips</a> или <a href="https://yoomoney.ru/to/41001945296522">Юмани</a>
 </div>
